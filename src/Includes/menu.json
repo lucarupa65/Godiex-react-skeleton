@@ -1,0 +1,19 @@
+{
+  "menu" : [
+    {
+      "id" : 1,
+      "name" : "Tipos de clasificacion",
+      "path": "/ClassificationType"
+    },
+    {
+      "id" : 2,
+      "name" : "Entrener Red",
+      "path": "/Train"
+    },
+    {
+      "id" : 3,
+      "name" : "Clasificar Imagenes",
+      "path": "/Sorter"
+    }
+  ]
+}
